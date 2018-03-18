@@ -1,0 +1,8 @@
+table.tool{float:left}table.tool td{white-space:nowrap}table.syntaxtable td{padding:2px;padding-right:5px}table.infotable td,table.infotable th{vertical-align:top;padding:4px;border:1px solid #bbb}table.infotable th{background-color:#eee;text-align:left;font-weight:600}label input{border:1px solid #fff}td.top,th.top{vertical-align:top}td.right,th.right,table.infotable th.right{text-align:right}tr.bold td{font-weight:600}tr.comment td{font-style:italic;text-align:center}.tdvaluesmall,.tdvaluedate{width:200px}input.dateform{width:30px}input.year{width:50px}form div{padding-top:7px}input.dateform{width:25px}
+
+/**
+*
+*/
+.high-light {
+    background-color: #bbb;
+}
